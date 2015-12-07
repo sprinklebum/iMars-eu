@@ -1,0 +1,2 @@
+# iMars-eu
+The iMars project focuses on developing tools and value-added datasets to massively increase the exploitation of space-based data from NASA and ESA mission imaging and 3D data beyond the PI teams. iMars is adding value by creating more complete and fused 3D models of the surface from combined stereo and laser altimetry and using these 3D models to create a set of co-registered imaging data through time, permitting a much more comprehensive interpretation of the Martian surface to be made.
