@@ -16,5 +16,5 @@ In terminal window:
 
 					-s command sets the size of the slice (in this case 400 by 400 pixels)
 					-o command sets the size of overlap (in this case 20 by 20 pixels)
-					Overlap is generally set at the general size of the feature(s) being analysed, so that they are not cut in half on an image slize.
+					Overlap is generally set at the general size of the feature(s) being analysed, so that they are not cut in half on an image slice.
 
